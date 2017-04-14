@@ -1,0 +1,19 @@
+@-webkit-keyframes squirl {
+    0%   {transform: rotate(180deg);}
+    100% {transform: rotate(0deg);}
+}
+
+@keyframes squirl {
+    0%   {transform: rotate(180deg);}
+    100% {transform: rotate(0deg);}
+}
+
+@-ms-keyframes squirl {
+    0%   {transform: rotate(180deg);}
+    100% {transform: rotate(0deg);}
+}
+
+@-moz-keyframes squirl {
+    0%   {transform: rotate(180deg);}
+    100% {transform: rotate(0deg);}
+}
